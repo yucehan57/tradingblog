@@ -65,7 +65,7 @@
     </session>
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="first_django" />
+    <favorites_list name="trading_blog" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -138,7 +138,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first_django/settings.py">
+        <entry file="file://$PROJECT_DIR$/trading_blog/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2304">
               <caret line="128" column="18" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
@@ -196,11 +196,11 @@
         <option value="$PROJECT_DIR$/users/templates/users/register.html" />
         <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/users/templates/users/logout.html" />
-        <option value="$PROJECT_DIR$/first_django/urls.py" />
+        <option value="$PROJECT_DIR$/trading_blog/urls.py" />
         <option value="$PROJECT_DIR$/users/templates/users/profile.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/base.html" />
         <option value="$PROJECT_DIR$/users/views.py" />
-        <option value="$PROJECT_DIR$/first_django/settings.py" />
+        <option value="$PROJECT_DIR$/trading_blog/settings.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/contact.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/app.js" />
         <option value="$PROJECT_DIR$/log.txt" />
@@ -245,46 +245,46 @@
         <subPane>
           <expand>
             <path>
-              <item name="first_django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_django" type="462c0819:PsiDirectoryNode" />
+              <item name="trading_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trading_blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="first_django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_django" type="462c0819:PsiDirectoryNode" />
+              <item name="trading_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trading_blog" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="first_django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_django" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first_django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_django" type="462c0819:PsiDirectoryNode" />
+              <item name="trading_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trading_blog" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trading_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trading_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="first_django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_django" type="462c0819:PsiDirectoryNode" />
-              <item name="first_django" type="462c0819:PsiDirectoryNode" />
+              <item name="trading_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trading_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="trading_blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="first_django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_django" type="462c0819:PsiDirectoryNode" />
+              <item name="trading_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trading_blog" type="462c0819:PsiDirectoryNode" />
               <item name="users" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="first_django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_django" type="462c0819:PsiDirectoryNode" />
+              <item name="trading_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trading_blog" type="462c0819:PsiDirectoryNode" />
               <item name="users" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="first_django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_django" type="462c0819:PsiDirectoryNode" />
+              <item name="trading_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trading_blog" type="462c0819:PsiDirectoryNode" />
               <item name="users" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="users" type="462c0819:PsiDirectoryNode" />
@@ -297,7 +297,7 @@
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="first_django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="trading_blog" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
@@ -313,9 +313,9 @@
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <console-settings module-name="first_django" is-module-sdk="true">
+      <console-settings module-name="trading_blog" is-module-sdk="true">
         <option name="myUseModuleSdk" value="true" />
-        <option name="myModuleName" value="first_django" />
+        <option name="myModuleName" value="trading_blog" />
       </console-settings>
     </option>
   </component>
@@ -333,7 +333,7 @@
   </component>
   <component name="RunManager">
     <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="first_django" />
+      <module name="trading_blog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -420,7 +420,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog/urls,.py" />
-    <entry file="file://$PROJECT_DIR$/first_django/wsgi.py">
+    <entry file="file://$PROJECT_DIR$/trading_blog/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/templates.html" />
@@ -513,7 +513,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first_django/urls.py">
+    <entry file="file://$PROJECT_DIR$/trading_blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
@@ -555,7 +555,7 @@
       </provider>
     </entry>
 >>>>>>> examplebranch
-    <entry file="file://$PROJECT_DIR$/first_django/settings.py">
+    <entry file="file://$PROJECT_DIR$/trading_blog/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2304">
           <caret line="128" column="18" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
