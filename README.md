@@ -3,11 +3,14 @@
 Trading blog is a comprehensive-to-be blog that I have been 
 working on for a while to improve my existing skills regarding
 both python and django framework. The main reason this
-blog is named Trading blog is mostly about my personal
+blog is named Trading Blog is mostly about my personal
 liking towards finance as well as trading industry. Mid-term
 goal of mine is to populate the blog with latest finance,
-foreign exchange fluctuations, trading, as well as
-economic related personal opinions. 
+forex, trading, as well as
+economics related personal opinions. 
+Hopefully it will serve as a guidance for investors, traders, and/or
+finance enthusiasts around the world as means to help them better
+understand trends and fluctuations in the global market.
 
 
 
