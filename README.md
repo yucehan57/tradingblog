@@ -28,7 +28,7 @@ Clone the repo, create virtual environment:
     $ virtualenv env
     $ source/env/bin/activate
     
-Environment is set up. To proceed, you begin by making necessary migration
+Environment is set up. To proceed, you begin by making necessary migrations:
 
     $ python manage.py makemigrations
     $ python manage.py migrate
